@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="UI自动化测试报告">
+    <test name="自动化测试">
+        <classes name="smoking-test">
+            <class name="AlluerReportDemo"/>
+        </classes>
+    </test>
+</suite>
