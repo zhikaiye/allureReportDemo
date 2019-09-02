@@ -1,7 +1,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class AlluerReportDemo {
+public class AlluerReportTest {
 
     @Test
     public void testCase01(){

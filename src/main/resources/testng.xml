@@ -2,7 +2,7 @@
 <suite name="UI自动化测试报告">
     <test name="自动化测试">
         <classes name="smoking-test">
-            <class name="AlluerReportDemo"/>
+            <class name="AlluerReportTest"/>
         </classes>
     </test>
 </suite>
